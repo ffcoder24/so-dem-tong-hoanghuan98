@@ -1,9 +1,27 @@
 {
-  "name": "@daominhhiep/tea-xyz-quest",
-  "version": "1.0.0",
-  "description": "Quest for tea.xyz",
+  "name": "so-dem-tong-hoanghuan98",
+  "version": "1.0.3",
+  "description": "hoanghuan98",
   "main": "index.js",
-  "author": "@daominhhiep",
-  "repository": "https://github.com/daominhhiep/tea-xyz-quest.git",
-  "license": "ISC"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffcoder24/so-dem-tong-hoanghuan98.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "hoanghuan98",
+  "license": "ISC",
+  "dependencies": {
+    "@lananhxcnm130/lananh-async-storage": "0.0.1",
+    "tinhdv-face-api.js": "0.22.5",
+    "timsolonnhat-hoanghuan98": "1.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/ffcoder24/so-dem-tong-hoanghuan98/issues"
+  },
+  "homepage": "https://github.com/ffcoder24/so-dem-tong-hoanghuan98#readme"
 }
